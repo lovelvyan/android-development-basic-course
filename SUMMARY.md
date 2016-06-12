@@ -2,14 +2,14 @@
 
 * [课程介绍](README.md)
 * [第一章 基础知识](chapter_md/diyi_zhang_ji_chu_zhi_shi_md.md)
-* [第二章 环境搭建](chapter_md/dier_zhang_huan_jing_da_jian_md.md)
-   * 开发工具介绍
+* 第二章 环境搭建
+   * [开发工具介绍](chapter02/kai_fa_gong_ju_jieshao.md)
    * 环境搭建流程
    * 环境常见问题
-* [第三章 Hello World](chapter_md/disan_zhang_hello_world_md.md)
-    * 项目建立流程
-    * 项目文件结构
-    * 项目编译运行
+* 第三章 Hello World
+    * [项目建立流程](chapter_md/disan_zhang_hello_world_md.md)
+    * [项目文件结构](chapter_md/disan_zhang_hello_world_md.md)
+    * [项目编译运行](chapter_md/disan_zhang_hello_world_md.md)
 * [第四章 Activity的使用]()
     * 基本介绍
     * 生命周期
