@@ -23,8 +23,9 @@
     * TimePicker
     * ProcessBar
     * ScrollView
-* [第六章 UI布局知识]()
-    * LinerLayout
+* 第六章 UI布局知识
+    * [布局的常用属性](chapter06/layout_attribute.md)
+    * [LinerLayout](chapter06/linerLayout.md)
     * RelativeLayout
     * TableLayout
 * [第七章 Listview的基本使用]()
