@@ -7,7 +7,7 @@
 >源码地址：https://github.com/lovelvyan/android-development-basic-course.git
 
 ```
-本书为个人大学教学所用，集成了大量的学生开发案例和课后作业练习。 — 周壹
+本书为个人大学教学所用，集成了一些安卓开发的基础知识、开发案例与课后作业练习。 — 周壹
 Hello World Android!
 ```
 
