@@ -1,3 +1,3 @@
-# My Awesome Book
+# 课程介绍
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本书为课程教材使用，内容较为基础。
