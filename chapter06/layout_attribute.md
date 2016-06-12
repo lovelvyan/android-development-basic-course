@@ -78,9 +78,9 @@ MATRIX / matrix 用矩阵来绘制，动态缩小放大图片来显示。
 
 + android:layout_width
 > 其实是可以实现 android:width 的效果的，我觉得这应该是为什么在 android 实例中看不到有人用 android:width 的原因吧。
-
 ```
 两者的区别：
 android:width 的值，一般是 "100dp" 这样的数值。
 android:layout_width 的值，一般是"fill_parent","wrap_content","match_parent"。当然，它也可以像前者一样，设置数值的。
 ```
+
