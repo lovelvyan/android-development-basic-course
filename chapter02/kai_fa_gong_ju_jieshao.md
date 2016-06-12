@@ -20,10 +20,12 @@
 
  相关参考网址：
 
- http://java.sun.com/——包含Java 技术、产品信息、新闻和软件特性等。
- http://java.sun.com/docs——JavaT平台文档，包括白皮书、教程以及相关文档。
- http://developer.java.sun.com——开发者服务网站，技术信息、新闻、论坛等。
- http://java.sun.com/products/——Java 技术产品和 API。
+```
+http://java.sun.com/——包含Java 技术、产品信息、新闻和软件特性等。
+http://java.sun.com/docs——JavaT平台文档，包括白皮书、教程以及相关文档。
+http://developer.java.sun.com——开发者服务网站，技术信息、新闻、论坛等。
+http://java.sun.com/products/——Java 技术产品和 API。
+```
 
 ## 2 Android Development Tools（ADT）
 
