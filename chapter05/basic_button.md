@@ -60,7 +60,6 @@ main_tech_btn.setOnClickListener(new View.OnClickListener() {
         android:textColor="#ffffff"
         android:textSize="10pt">
 </Button>
-----------------------------------------------------------
 2.实现监听事件
 public class MainActivity extends AppCompatActivity {
     @Override
