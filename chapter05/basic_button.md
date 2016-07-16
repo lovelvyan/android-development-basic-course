@@ -81,7 +81,6 @@ public class MainActivity extends AppCompatActivity {
 + 方法三：方法一的简写形式，在按钮只设置监听事件时使用方便。如果当前Activity中多次使用，需按照第一种方式定义声明。
 ```
 定义布局中的按钮控件和方法一一样定义ID属性。
-
 public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -97,4 +96,3 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
