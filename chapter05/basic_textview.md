@@ -19,9 +19,9 @@
     android:singleLine="true">
 </TextView>
 ```
-+ textColor 属性表示文字的颜色
-+ textSize 属性表示文字的大小，单位一般为pt
-+ text 属性表示文本的具体内容
++ textColor 属性表示文字的颜色。
++ textSize 属性表示文字的大小，单位一般为pt。
++ text 属性表示文本的具体内容。
 + singleLine 属性表示是否文本只显示一行，默认为false，如果为true则只会显示一行文字。
 
 ### 2 Activity中获取TextView
