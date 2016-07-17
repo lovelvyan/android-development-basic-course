@@ -18,7 +18,7 @@
     * Intent跳转与传值
 * [第五章 基本控件知识]()
     * [Button](chapter05/basic_button.md)
-    * TextView
+    * [TextView](chapter05/basic_textview.md)
     * CheckBox
     * EditView
     * TimePicker
