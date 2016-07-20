@@ -2,6 +2,7 @@
 
 * [课程介绍](README.md)
 * [2016年暑期安卓培训](2016_07_24_AndroidPeixun.md)
+* [推荐自主学习教程](Course.md)
 * [第一章 基础知识](chapter_md/diyi_zhang_ji_chu_zhi_shi_md.md)
 * 第二章 环境搭建
    * [开发工具介绍](chapter02/kai_fa_gong_ju_jieshao.md)
