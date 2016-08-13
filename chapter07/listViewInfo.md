@@ -16,6 +16,10 @@ XML 属性
 + android:footerDividersEnabled//当设为false时，ListView将不会在各个footer之间绘制divider.默认为true。
 + android:headerDividersEnabled//当设为false时，ListView将不会在各个header之间绘制divider.默认为true。
 
+
++ android:fadingEdge="vertical"//上边和下边有黑色的阴影值为none的话就没有阴影。
++ android:scrollbars="horizontal|none"//只有值为horizontal|vertical的时候，才会显示滚动条，并且会自动影藏和显示。
++ android:fastScrollEnabled="true" //快速滚动效果，配置这个属性，在快速滚动的时候旁边会出现一个小方块的快速滚动效果，自动隐藏和显示。
 + android:cacheColorHint// 表明这个列表的背景始终以单一、固定的颜色绘制，可以优化绘制过程。
 + android:choiceMode//为视图指定选择的行为。可选的类型有：none、singleChoice、multipleChoice、multipleChoiceModal。
 + android:drawSelectorOnTop// 若设为true，选择器将绘制在选中条目的上层。默认为false。
