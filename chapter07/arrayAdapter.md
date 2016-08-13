@@ -93,6 +93,7 @@ ArrayAdapter是BaseAdapter的派生类，在BaseAdapter的基础上，添加了�
        }
 ```
 > user_list_item.xml布局文件
+
 ```
     <?xml version="1.0" encoding="utf-8"?>
     <LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
