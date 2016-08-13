@@ -32,7 +32,7 @@
     * TableLayout
 * [第七章 Listview的基本使用]()
     * [Adapter概念](chapter07/adapterInfo.md)
-    * [ListView的基本属性](chapter07/listViewInfo.md)
+    * [ListView的基本属性与方法](chapter07/listViewInfo.md)
     * [ArrayAdapter](chapter07/arrayAdapter.md)
     * [SimpleAdapter](chapter07/simpleAdapter.md)
     * [自定义Adapter](chapter07/selfAdapter.md)
