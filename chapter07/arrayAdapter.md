@@ -12,7 +12,9 @@ ArrayAdapter是BaseAdapter的派生类，在BaseAdapter的基础上，添加了�
 + ArrayAdapter(Context context, int resource, int textViewResourceId, List<T> objects)
 
 ###使用方式一（基本使用）：
+
 >使用构造方法 ArrayAdapter(Context context, int resource, T[] objects)
+
 ```
    public class ArrayAdapterActivity extends ListActivity {
         @Override
@@ -25,6 +27,7 @@ ArrayAdapter是BaseAdapter的派生类，在BaseAdapter的基础上，添加了�
         }
     }
 ```
+
 ###使用方式二（简单数据简单布局）：
 
 >使用构造方法 ArrayAdapter(Context context, int resource, T[] objects)
@@ -58,6 +61,7 @@ ArrayAdapter是BaseAdapter的派生类，在BaseAdapter的基础上，添加了�
            }
        }
 ```
+
 ###使用方式三（简单数据复杂布局）：
 
 >使用构造方法 ArrayAdapter(Context context, int resource, int textViewResourceId, List<T> objects)
@@ -92,6 +96,7 @@ ArrayAdapter是BaseAdapter的派生类，在BaseAdapter的基础上，添加了�
            }
        }
 ```
+
 > user_list_item.xml布局文件
 
 ```
@@ -112,7 +117,9 @@ ArrayAdapter是BaseAdapter的派生类，在BaseAdapter的基础上，添加了�
         </Button>
     </LinearLayout>
   ```
+
 ###使用方式四（数据复杂样式复杂使用）：
+
 ```
     public class ArrayAdapterActivity extends Activity {
 
