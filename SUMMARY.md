@@ -20,7 +20,7 @@
 * [第五章 基本控件知识]()
     * [Button](chapter05/basic_button.md)
     * [TextView](chapter05/basic_textview.md)
-    * CheckBox
+    * [CheckBox](chapter05/basic_checkbox.md)
     * EditView
     * TimePicker
     * ProcessBar
