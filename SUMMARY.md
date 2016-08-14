@@ -21,10 +21,10 @@
     * [Button](chapter05/basic_button.md)
     * [TextView](chapter05/basic_textview.md)
     * [CheckBox](chapter05/basic_checkbox.md)
-    * EditView
-    * TimePicker
-    * ProcessBar
-    * ScrollView
+    * [EditView](chapter05/basic_editview.md)
+    * [TimePicker](chapter05/basic_timepicker.md)
+    * [ProcessBar](chapter05/basic_processbar.md)
+    * [ScrollView](chapter05/basic_scrollview.md)
 * 第六章 UI布局知识
     * [布局的常用属性](chapter06/layout_attribute.md)
     * [LinerLayout](chapter06/linerLayout.md)
