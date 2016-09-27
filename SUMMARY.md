@@ -28,8 +28,9 @@
 * 第六章 UI布局知识
     * [布局的常用属性](chapter06/layout_attribute.md)
     * [LinerLayout](chapter06/linerLayout.md)
-    * RelativeLayout
-    * TableLayout
+    * [FrameLayout](chapter06/framelayout.md)
+    * [TableLayout](chapter06/tablelayout.md)
+    * [RelativeLayout](chapter06/relativelayout.md)
 * [第七章 Listview的基本使用]()
     * [Adapter概念](chapter07/adapterInfo.md)
     * [ListView的基本属性与方法](chapter07/listViewInfo.md)
