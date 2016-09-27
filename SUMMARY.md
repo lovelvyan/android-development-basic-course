@@ -21,7 +21,7 @@
     * [Button](chapter05/basic_button.md)
     * [TextView](chapter05/basic_textview.md)
     * [CheckBox](chapter05/basic_checkbox.md)
-    * [EditView](chapter05/basic_editview.md)
+    * [EditText](chapter05/basic_edittext.md)
     * [TimePicker](chapter05/basic_timepicker.md)
     * [ProcessBar](chapter05/basic_processbar.md)
     * [ScrollView](chapter05/basic_scrollview.md)
