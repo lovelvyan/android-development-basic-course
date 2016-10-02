@@ -24,7 +24,7 @@
 + text 属性表示文本的具体内容。
 + singleLine 属性表示是否文本只显示一行，默认为false，如果为true则只会显示一行文字。
 
-### 2 Activity中获取TextView
+### 2 Activity中获取TextViewZXC
 
 ```
 public class MainActivity extends AppCompatActivity {
